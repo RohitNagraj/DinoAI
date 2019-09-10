@@ -8,8 +8,6 @@ venv/lib64
 
 *.cfg
 
-*.mp4
-
 venv/__pycache__/
 
 venv/dataset/
